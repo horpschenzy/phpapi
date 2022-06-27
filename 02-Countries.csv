@@ -1,0 +1,251 @@
+continent_code,currency_code,iso2_code,iso3_code,iso_numeric_code,fips_code,calling_code,common_name,official_name,endonym,demonym
+AS,AFN,AF,AFG,4,AF,93,Afghanistan,Afghanistan,افغانستان,Afghan
+EU,EUR,AX,ALA,248,,358,Åland,Åland Islands,Åland,Ålandish
+EU,ALL,AL,ALB,8,AL,355,Albania,Albania,Shqipëria,Albanian
+AF,DZD,DZ,DZA,12,AG,213,Algeria,Algeria,الجزائر,Algerian
+OC,USD,AS,ASM,16,AQ,1,American Samoa,American Samoa,American Samoa,American Samoan
+EU,EUR,AD,AND,20,AN,376,Andorra,Andorra,Andorra,Andorran
+AF,AOA,AO,AGO,24,AO,244,Angola,Angola,Angola,Angolan
+NA,XCD,AI,AIA,660,AV,1,Anguilla,Anguilla,Anguilla,Anguillian
+AN,AUD,AQ,ATA,10,AY,672,Antarctica,Antarctica,Antarctica,
+NA,XCD,AG,ATG,28,AC,1,Antigua and Barbuda,Antigua and Barbuda,Antigua and Barbuda,"Antiguan, Barbudan"
+SA,ARS,AR,ARG,32,AR,54,Argentina,Argentina,Argentina,Argentinean
+AS,AMD,AM,ARM,51,AM,374,Armenia,Armenia,Հայաստան,Armenian
+NA,AWG,AW,ABW,533,AA,297,Aruba,Aruba,Aruba,Aruban
+OC,AUD,AU,AUS,36,AS,61,Australia,Australia,Australia,Australian
+EU,EUR,AT,AUT,40,AU,43,Austria,Austria,Österreich,Austrian
+AS,AZN,AZ,AZE,31,AJ,994,Azerbaijan,Azerbaijan,Azərbaycan,Azerbaijani
+NA,BSD,BS,BHS,44,BF,1,Bahamas,Bahamas,Bahamas,Bahamian
+AS,BHD,BH,BHR,48,BA,973,Bahrain,Bahrain,‏البحرين,Bahraini
+AS,BDT,BD,BGD,50,BG,880,Bangladesh,Bangladesh,Bangladesh,Bangladeshi
+NA,BBD,BB,BRB,52,BB,1,Barbados,Barbados,Barbados,Barbadian
+EU,BYN,BY,BLR,112,BO,375,Belarus,Belarus,Белару́сь,Belarusian
+EU,EUR,BE,BEL,56,BE,32,Belgium,Belgium,België,Belgian
+NA,BZD,BZ,BLZ,84,BH,501,Belize,Belize,Belize,Belizean
+AF,XOF,BJ,BEN,204,BN,229,Benin,Benin,Bénin,Beninese
+NA,BMD,BM,BMU,60,BD,1,Bermuda,Bermuda,Bermuda,Bermudian
+AS,BTN,BT,BTN,64,BT,975,Bhutan,Bhutan,ʼbrug-yul,Bhutanese
+SA,BOB,BO,BOL,68,BL,591,Bolivia,Bolivia (Plurinational State of),Bolivia,Bolivian
+NA,USD,BQ,BES,535,,1,Bonaire,"Bonaire, Sint Eustatius and Saba",Bonaire,Dutch
+EU,BAM,BA,BIH,70,BK,387,Bosnia and Herzegovina,Bosnia and Herzegovina,Bosna i Hercegovina,"Bosnian, Herzegovinian"
+AF,BWP,BW,BWA,72,BC,267,Botswana,Botswana,Botswana,Motswana
+AN,NOK,BV,BVT,74,BV,,Bouvet Island,Bouvet Island,Bouvetøya,
+SA,BRL,BR,BRA,76,BR,55,Brazil,Brazil,Brasil,Brazilian
+AS,USD,IO,IOT,86,IO,246,British Indian Ocean Territory,British Indian Ocean Territory,British Indian Ocean Territory,Indian
+OC,USD,UM,UMI,581,,,U.S. Minor Outlying Islands,United States Minor Outlying Islands,United States Minor Outlying Islands,American
+NA,,VG,VGB,92,VI,1,British Virgin Islands,Virgin Islands (British),British Virgin Islands,Virgin Islander
+NA,USD,VI,VIR,850,VQ,1,U.S. Virgin Islands,Virgin Islands (U.S.),Virgin Islands of the United States,Virgin Islander
+AS,BND,BN,BRN,96,BX,673,Brunei,Brunei Darussalam,Negara Brunei Darussalam,Bruneian
+EU,BGN,BG,BGR,100,BU,359,Bulgaria,Bulgaria,България,Bulgarian
+AF,XOF,BF,BFA,854,UV,226,Burkina Faso,Burkina Faso,Burkina Faso,Burkinabe
+AF,BIF,BI,BDI,108,BY,257,Burundi,Burundi,Burundi,Burundian
+AS,KHR,KH,KHM,116,CB,855,Cambodia,Cambodia,Kâmpŭchéa,Cambodian
+AF,XAF,CM,CMR,120,CM,237,Cameroon,Cameroon,Cameroon,Cameroonian
+NA,CAD,CA,CAN,124,CA,1,Canada,Canada,Canada,Canadian
+AF,CVE,CV,CPV,132,CV,238,Cape Verde,Cabo Verde,Cabo Verde,Cape Verdian
+NA,KYD,KY,CYM,136,CJ,1,Cayman Islands,Cayman Islands,Cayman Islands,Caymanian
+AF,XAF,CF,CAF,140,CT,236,Central African Republic,Central African Republic,Ködörösêse tî Bêafrîka,Central African
+AF,XAF,TD,TCD,148,CD,235,Chad,Chad,Tchad,Chadian
+SA,CLP,CL,CHL,152,CI,56,Chile,Chile,Chile,Chilean
+AS,CNY,CN,CHN,156,CH,86,China,China,中国,Chinese
+OC,AUD,CX,CXR,162,KT,61,Christmas Island,Christmas Island,Christmas Island,Christmas Island
+AS,AUD,CC,CCK,166,CK,61,Cocos [Keeling] Islands,Cocos (Keeling) Islands,Cocos (Keeling) Islands,Cocos Islander
+SA,COP,CO,COL,170,CO,57,Colombia,Colombia,Colombia,Colombian
+AF,KMF,KM,COM,174,CN,269,Comoros,Comoros,Komori,Comoran
+AF,XAF,CG,COG,178,CF,242,Republic of the Congo,Congo,République du Congo,Congolese
+AF,CDF,CD,COD,180,CG,243,Democratic Republic of the Congo,Congo (Democratic Republic of the),République démocratique du Congo,Congolese
+OC,NZD,CK,COK,184,CW,682,Cook Islands,Cook Islands,Cook Islands,Cook Islander
+NA,CRC,CR,CRI,188,CS,506,Costa Rica,Costa Rica,Costa Rica,Costa Rican
+EU,HRK,HR,HRV,191,HR,385,Croatia,Croatia,Hrvatska,Croatian
+NA,CUC,CU,CUB,192,CU,53,Cuba,Cuba,Cuba,Cuban
+NA,ANG,CW,CUW,531,UC,599,Curacao,Curaçao,Curaçao,Dutch
+EU,EUR,CY,CYP,196,CY,357,Cyprus,Cyprus,Κύπρος,Cypriot
+EU,CZK,CZ,CZE,203,EZ,420,Czechia,Czech Republic,Česká republika,Czech
+EU,DKK,DK,DNK,208,DA,45,Denmark,Denmark,Danmark,Danish
+AF,DJF,DJ,DJI,262,DJ,253,Djibouti,Djibouti,Djibouti,Djibouti
+NA,XCD,DM,DMA,212,DO,1,Dominica,Dominica,Dominica,Dominican
+NA,DOP,DO,DOM,214,DR,1,Dominican Republic,Dominican Republic,República Dominicana,Dominican
+SA,USD,EC,ECU,218,EC,593,Ecuador,Ecuador,Ecuador,Ecuadorean
+AF,EGP,EG,EGY,818,EG,20,Egypt,Egypt,مصر‎,Egyptian
+NA,USD,SV,SLV,222,ES,503,El Salvador,El Salvador,El Salvador,Salvadoran
+AF,XAF,GQ,GNQ,226,EK,240,Equatorial Guinea,Equatorial Guinea,Guinea Ecuatorial,Equatorial Guinean
+AF,ERN,ER,ERI,232,ER,291,Eritrea,Eritrea,ኤርትራ,Eritrean
+EU,EUR,EE,EST,233,EN,372,Estonia,Estonia,Eesti,Estonian
+AF,ETB,ET,ETH,231,ET,251,Ethiopia,Ethiopia,ኢትዮጵያ,Ethiopian
+SA,FKP,FK,FLK,238,FK,500,Falkland Islands,Falkland Islands (Malvinas),Falkland Islands,Falkland Islander
+EU,DKK,FO,FRO,234,FO,298,Faroe Islands,Faroe Islands,Føroyar,Faroese
+OC,FJD,FJ,FJI,242,FJ,679,Fiji,Fiji,Fiji,Fijian
+EU,EUR,FI,FIN,246,FI,358,Finland,Finland,Suomi,Finnish
+EU,EUR,FR,FRA,250,FR,33,France,France,France,French
+SA,EUR,GF,GUF,254,FG,594,French Guiana,French Guiana,Guyane française,
+OC,XPF,PF,PYF,258,FP,689,French Polynesia,French Polynesia,Polynésie française,French Polynesian
+AN,EUR,TF,ATF,260,FS,,French Southern Territories,French Southern Territories,Territoire des Terres australes et antarctiques françaises,French
+AF,XAF,GA,GAB,266,GB,241,Gabon,Gabon,Gabon,Gabonese
+AF,GMD,GM,GMB,270,GA,220,Gambia,Gambia,Gambia,Gambian
+AS,GEL,GE,GEO,268,GG,995,Georgia,Georgia,საქართველო,Georgian
+EU,EUR,DE,DEU,276,GM,49,Germany,Germany,Deutschland,German
+AF,GHS,GH,GHA,288,GH,233,Ghana,Ghana,Ghana,Ghanaian
+EU,GIP,GI,GIB,292,GI,350,Gibraltar,Gibraltar,Gibraltar,Gibraltar
+EU,EUR,GR,GRC,300,GR,30,Greece,Greece,Ελλάδα,Greek
+NA,DKK,GL,GRL,304,GL,299,Greenland,Greenland,Kalaallit Nunaat,Greenlandic
+NA,XCD,GD,GRD,308,GJ,1,Grenada,Grenada,Grenada,Grenadian
+NA,EUR,GP,GLP,312,GP,590,Guadeloupe,Guadeloupe,Guadeloupe,Guadeloupian
+OC,USD,GU,GUM,316,GQ,1,Guam,Guam,Guam,Guamanian
+NA,GTQ,GT,GTM,320,GT,502,Guatemala,Guatemala,Guatemala,Guatemalan
+EU,GBP,GG,GGY,831,GK,44,Guernsey,Guernsey,Guernsey,Channel Islander
+AF,GNF,GN,GIN,324,GV,224,Guinea,Guinea,Guinée,Guinean
+AF,XOF,GW,GNB,624,PU,245,Guinea-Bissau,Guinea-Bissau,Guiné-Bissau,Guinea-Bissauan
+SA,GYD,GY,GUY,328,GY,592,Guyana,Guyana,Guyana,Guyanese
+NA,HTG,HT,HTI,332,HA,509,Haiti,Haiti,Haïti,Haitian
+AN,AUD,HM,HMD,334,HM,,Heard Island and McDonald Islands,Heard Island and McDonald Islands,Heard Island and McDonald Islands,Heard and McDonald Islander
+EU,EUR,VA,VAT,336,VT,379,Vatican City,Holy See,Sancta Sedes,
+NA,HNL,HN,HND,340,HO,504,Honduras,Honduras,Honduras,Honduran
+AS,HKD,HK,HKG,344,HK,852,Hong Kong,Hong Kong,香港,Chinese
+EU,HUF,HU,HUN,348,HU,36,Hungary,Hungary,Magyarország,Hungarian
+EU,ISK,IS,ISL,352,IC,354,Iceland,Iceland,Ísland,Icelander
+AS,INR,IN,IND,356,IN,91,India,India,भारत,Indian
+AS,IDR,ID,IDN,360,ID,62,Indonesia,Indonesia,Indonesia,Indonesian
+AF,XOF,CI,CIV,384,IV,225,Ivory Coast,C� te dIvoire,C� te dIvoire,Ivorian
+AS,IRR,IR,IRN,364,IR,98,Iran,Iran (Islamic Republic of),ایران,Iranian
+AS,IQD,IQ,IRQ,368,IZ,964,Iraq,Iraq,العراق,Iraqi
+EU,EUR,IE,IRL,372,EI,353,Ireland,Ireland,Éire,Irish
+EU,GBP,IM,IMN,833,IM,44,Isle of Man,Isle of Man,Isle of Man,Manx
+AS,ILS,IL,ISR,376,IS,972,Israel,Israel,יִשְׂרָאֵל,Israeli
+EU,EUR,IT,ITA,380,IT,39,Italy,Italy,Italia,Italian
+NA,JMD,JM,JAM,388,JM,1,Jamaica,Jamaica,Jamaica,Jamaican
+AS,JPY,JP,JPN,392,JA,81,Japan,Japan,日本,Japanese
+EU,GBP,JE,JEY,832,JE,44,Jersey,Jersey,Jersey,Channel Islander
+AS,JOD,JO,JOR,400,JO,962,Jordan,Jordan,الأردن,Jordanian
+AS,KZT,KZ,KAZ,398,KZ,7,Kazakhstan,Kazakhstan,Қазақстан,Kazakhstani
+AF,KES,KE,KEN,404,KE,254,Kenya,Kenya,Kenya,Kenyan
+OC,AUD,KI,KIR,296,KR,686,Kiribati,Kiribati,Kiribati,I-Kiribati
+AS,KWD,KW,KWT,414,KU,965,Kuwait,Kuwait,الكويت,Kuwaiti
+AS,KGS,KG,KGZ,417,KG,996,Kyrgyzstan,Kyrgyzstan,Кыргызстан,Kirghiz
+AS,LAK,LA,LAO,418,LA,856,Laos,Lao Peoples Democratic Republic,ສປປລາວ,Laotian
+EU,EUR,LV,LVA,428,LG,371,Latvia,Latvia,Latvija,Latvian
+AS,LBP,LB,LBN,422,LE,961,Lebanon,Lebanon,لبنان,Lebanese
+AF,LSL,LS,LSO,426,LT,266,Lesotho,Lesotho,Lesotho,Mosotho
+AF,LRD,LR,LBR,430,LI,231,Liberia,Liberia,Liberia,Liberian
+AF,LYD,LY,LBY,434,LY,218,Libya,Libya,‏ليبيا,Libyan
+EU,CHF,LI,LIE,438,LS,423,Liechtenstein,Liechtenstein,Liechtenstein,Liechtensteiner
+EU,EUR,LT,LTU,440,LH,370,Lithuania,Lithuania,Lietuva,Lithuanian
+EU,EUR,LU,LUX,442,LU,352,Luxembourg,Luxembourg,Luxembourg,Luxembourger
+AS,MOP,MO,MAC,446,MC,853,Macao,Macao,澳門,Chinese
+EU,MKD,MK,MKD,807,MK,389,Macedonia,Macedonia (the former Yugoslav Republic of),Македонија,Macedonian
+AF,MGA,MG,MDG,450,MA,261,Madagascar,Madagascar,Madagasikara,Malagasy
+AF,MWK,MW,MWI,454,MI,265,Malawi,Malawi,Malawi,Malawian
+AS,MYR,MY,MYS,458,MY,60,Malaysia,Malaysia,Malaysia,Malaysian
+AS,MVR,MV,MDV,462,MV,960,Maldives,Maldives,Maldives,Maldivan
+AF,XOF,ML,MLI,466,ML,223,Mali,Mali,Mali,Malian
+EU,EUR,MT,MLT,470,MT,356,Malta,Malta,Malta,Maltese
+OC,USD,MH,MHL,584,RM,692,Marshall Islands,Marshall Islands,M̧ajeļ,Marshallese
+NA,EUR,MQ,MTQ,474,MB,596,Martinique,Martinique,Martinique,French
+AF,MRO,MR,MRT,478,MR,222,Mauritania,Mauritania,موريتانيا,Mauritanian
+AF,MUR,MU,MUS,480,MP,230,Mauritius,Mauritius,Maurice,Mauritian
+AF,EUR,YT,MYT,175,MF,262,Mayotte,Mayotte,Mayotte,French
+NA,MXN,MX,MEX,484,MX,52,Mexico,Mexico,México,Mexican
+OC,,FM,FSM,583,FM,691,Micronesia,Micronesia (Federated States of),Micronesia,Micronesian
+EU,MDL,MD,MDA,498,MD,373,Moldova,Moldova (Republic of),Moldova,Moldovan
+EU,EUR,MC,MCO,492,MN,377,Monaco,Monaco,Monaco,Monegasque
+AS,MNT,MN,MNG,496,MG,976,Mongolia,Mongolia,Монгол улс,Mongolian
+EU,EUR,ME,MNE,499,MJ,382,Montenegro,Montenegro,Црна Гора,Montenegrin
+NA,XCD,MS,MSR,500,MH,1,Montserrat,Montserrat,Montserrat,Montserratian
+AF,MAD,MA,MAR,504,MO,212,Morocco,Morocco,المغرب,Moroccan
+AF,MZN,MZ,MOZ,508,MZ,258,Mozambique,Mozambique,Moçambique,Mozambican
+AS,MMK,MM,MMR,104,BM,95,Myanmar [Burma],Myanmar,Myanma,Burmese
+AF,NAD,NA,NAM,516,WA,264,Namibia,Namibia,Namibia,Namibian
+OC,AUD,NR,NRU,520,NR,674,Nauru,Nauru,Nauru,Nauruan
+AS,NPR,NP,NPL,524,NP,977,Nepal,Nepal,नेपाल,Nepalese
+EU,EUR,NL,NLD,528,NL,31,Netherlands,Netherlands,Nederland,Dutch
+OC,XPF,NC,NCL,540,NC,687,New Caledonia,New Caledonia,Nouvelle-Calédonie,New Caledonian
+OC,NZD,NZ,NZL,554,NZ,64,New Zealand,New Zealand,New Zealand,New Zealander
+NA,NIO,NI,NIC,558,NU,505,Nicaragua,Nicaragua,Nicaragua,Nicaraguan
+AF,XOF,NE,NER,562,NG,227,Niger,Niger,Niger,Nigerien
+AF,NGN,NG,NGA,566,NI,234,Nigeria,Nigeria,Nigeria,Nigerian
+OC,NZD,NU,NIU,570,NE,683,Niue,Niue,Niuē,Niuean
+OC,AUD,NF,NFK,574,NF,672,Norfolk Island,Norfolk Island,Norfolk Island,Norfolk Islander
+AS,KPW,KP,PRK,408,KN,850,North Korea,Korea (Democratic Peoples Republic of),북한,North Korean
+OC,USD,MP,MNP,580,CQ,1,Northern Mariana Islands,Northern Mariana Islands,Northern Mariana Islands,American
+EU,NOK,NO,NOR,578,NO,47,Norway,Norway,Norge,Norwegian
+AS,OMR,OM,OMN,512,MU,968,Oman,Oman,عمان,Omani
+AS,PKR,PK,PAK,586,PK,92,Pakistan,Pakistan,Pakistan,Pakistani
+OC,,PW,PLW,585,PS,680,Palau,Palau,Palau,Palauan
+AS,ILS,PS,PSE,275,WE,970,Palestine,"Palestine, State of",فلسطين,Palestinian
+NA,PAB,PA,PAN,591,PM,507,Panama,Panama,Panamá,Panamanian
+OC,PGK,PG,PNG,598,PP,675,Papua New Guinea,Papua New Guinea,Papua Niugini,Papua New Guinean
+SA,PYG,PY,PRY,600,PA,595,Paraguay,Paraguay,Paraguay,Paraguayan
+SA,PEN,PE,PER,604,PE,51,Peru,Peru,Perú,Peruvian
+AS,PHP,PH,PHL,608,RP,63,Philippines,Philippines,Pilipinas,Filipino
+OC,NZD,PN,PCN,612,PC,64,Pitcairn Islands,Pitcairn,Pitcairn Islands,Pitcairn Islander
+EU,PLN,PL,POL,616,PL,48,Poland,Poland,Polska,Polish
+EU,EUR,PT,PRT,620,PO,351,Portugal,Portugal,Portugal,Portuguese
+NA,USD,PR,PRI,630,RQ,1,Puerto Rico,Puerto Rico,Puerto Rico,Puerto Rican
+AS,QAR,QA,QAT,634,QA,974,Qatar,Qatar,قطر,Qatari
+EU,EUR,XK,KOS,0,KV,383,Kosovo,Republic of Kosovo,Republika e Kosovës,Kosovar
+AF,EUR,RE,REU,638,RE,262,Réunion,Réunion,La Réunion,French
+EU,RON,RO,ROU,642,RO,40,Romania,Romania,România,Romanian
+EU,RUB,RU,RUS,643,RS,7,Russia,Russian Federation,Россия,Russian
+AF,RWF,RW,RWA,646,RW,250,Rwanda,Rwanda,Rwanda,Rwandan
+NA,EUR,BL,BLM,652,TB,590,Saint Barthélemy,Saint Barthélemy,Saint-Barthélemy,Saint Barthélemy Islander
+AF,SHP,SH,SHN,654,SH,290,Saint Helena,"Saint Helena, Ascension and Tristan da Cunha",Saint Helena,Saint Helenian
+NA,XCD,KN,KNA,659,SC,1,Saint Kitts and Nevis,Saint Kitts and Nevis,Saint Kitts and Nevis,Kittian and Nevisian
+NA,XCD,LC,LCA,662,ST,1,Saint Lucia,Saint Lucia,Saint Lucia,Saint Lucian
+NA,EUR,MF,MAF,663,RN,590,Saint Martin,Saint Martin (French part),Saint-Martin,Saint Martin Islander
+NA,EUR,PM,SPM,666,SB,508,Saint Pierre and Miquelon,Saint Pierre and Miquelon,Saint-Pierre-et-Miquelon,French
+NA,XCD,VC,VCT,670,VC,1,Saint Vincent and the Grenadines,Saint Vincent and the Grenadines,Saint Vincent and the Grenadines,Saint Vincentian
+OC,WST,WS,WSM,882,WS,685,Samoa,Samoa,Samoa,Samoan
+EU,EUR,SM,SMR,674,SM,378,San Marino,San Marino,San Marino,Sammarinese
+AF,STD,ST,STP,678,TP,239,São Tomé and Príncipe,Sao Tome and Principe,São Tomé e Príncipe,Sao Tomean
+AS,SAR,SA,SAU,682,SA,966,Saudi Arabia,Saudi Arabia,العربية السعودية,Saudi Arabian
+AF,XOF,SN,SEN,686,SG,221,Senegal,Senegal,Sénégal,Senegalese
+EU,RSD,RS,SRB,688,RI,381,Serbia,Serbia,Србија,Serbian
+AF,SCR,SC,SYC,690,SE,248,Seychelles,Seychelles,Seychelles,Seychellois
+AF,SLL,SL,SLE,694,SL,232,Sierra Leone,Sierra Leone,Sierra Leone,Sierra Leonean
+AS,BND,SG,SGP,702,SN,65,Singapore,Singapore,Singapore,Singaporean
+NA,ANG,SX,SXM,534,NN,1,Sint Maarten,Sint Maarten (Dutch part),Sint Maarten,Dutch
+EU,EUR,SK,SVK,703,LO,421,Slovakia,Slovakia,Slovensko,Slovak
+EU,EUR,SI,SVN,705,SI,386,Slovenia,Slovenia,Slovenija,Slovene
+OC,SBD,SB,SLB,90,BP,677,Solomon Islands,Solomon Islands,Solomon Islands,Solomon Islander
+AF,SOS,SO,SOM,706,SO,252,Somalia,Somalia,Soomaaliya,Somali
+AF,ZAR,ZA,ZAF,710,SF,27,South Africa,South Africa,South Africa,South African
+AN,GBP,GS,SGS,239,SX,500,South Georgia and the South Sandwich Islands,South Georgia and the South Sandwich Islands,South Georgia,South Georgia and the South Sandwich Islander
+AS,KRW,KR,KOR,410,KS,82,South Korea,Korea (Republic of),대한민국,South Korean
+AF,SSP,SS,SSD,728,OD,211,South Sudan,South Sudan,South Sudan,South Sudanese
+EU,EUR,ES,ESP,724,SP,34,Spain,Spain,España,Spanish
+AS,LKR,LK,LKA,144,CE,94,Sri Lanka,Sri Lanka,śrī laṃkāva,Sri Lankan
+AF,SDG,SD,SDN,729,SU,249,Sudan,Sudan,السودان,Sudanese
+SA,SRD,SR,SUR,740,NS,597,Suriname,Suriname,Suriname,Surinamer
+EU,NOK,SJ,SJM,744,SV,1,Svalbard and Jan Mayen,Svalbard and Jan Mayen,Svalbard og Jan Mayen,Norwegian
+AF,SZL,SZ,SWZ,748,WZ,268,Swaziland,Swaziland,Swaziland,Swazi
+EU,SEK,SE,SWE,752,SW,46,Sweden,Sweden,Sverige,Swedish
+EU,CHF,CH,CHE,756,SZ,41,Switzerland,Switzerland,Schweiz,Swiss
+AS,SYP,SY,SYR,760,SY,963,Syria,Syrian Arab Republic,سوريا,Syrian
+AS,TWD,TW,TWN,158,TW,886,Taiwan,Taiwan,臺灣,Taiwanese
+AS,TJS,TJ,TJK,762,TI,992,Tajikistan,Tajikistan,Тоҷикистон,Tadzhik
+AF,TZS,TZ,TZA,834,TZ,255,Tanzania,"Tanzania, United Republic of",Tanzania,Tanzanian
+AS,THB,TH,THA,764,TH,66,Thailand,Thailand,ประเทศไทย,Thai
+OC,USD,TL,TLS,626,TT,670,East Timor,Timor-Leste,Timor-Leste,East Timorese
+AF,XOF,TG,TGO,768,TO,228,Togo,Togo,Togo,Togolese
+OC,NZD,TK,TKL,772,TL,690,Tokelau,Tokelau,Tokelau,Tokelauan
+OC,TOP,TO,TON,776,TN,676,Tonga,Tonga,Tonga,Tongan
+NA,TTD,TT,TTO,780,TD,1,Trinidad and Tobago,Trinidad and Tobago,Trinidad and Tobago,Trinidadian
+AF,TND,TN,TUN,788,TS,216,Tunisia,Tunisia,تونس,Tunisian
+AS,TRY,TR,TUR,792,TU,90,Turkey,Turkey,Türkiye,Turkish
+AS,TMT,TM,TKM,795,TX,993,Turkmenistan,Turkmenistan,Türkmenistan,Turkmen
+NA,USD,TC,TCA,796,TK,1,Turks and Caicos Islands,Turks and Caicos Islands,Turks and Caicos Islands,Turks and Caicos Islander
+OC,AUD,TV,TUV,798,TV,688,Tuvalu,Tuvalu,Tuvalu,Tuvaluan
+AF,UGX,UG,UGA,800,UG,256,Uganda,Uganda,Uganda,Ugandan
+EU,UAH,UA,UKR,804,UP,380,Ukraine,Ukraine,Україна,Ukrainian
+AS,AED,AE,ARE,784,AE,971,United Arab Emirates,United Arab Emirates,دولة الإمارات العربية المتحدة,Emirati
+EU,GBP,GB,GBR,826,UK,44,United Kingdom,United Kingdom of Great Britain and Northern Ireland,United Kingdom,British
+NA,USD,US,USA,840,US,1,United States,United States of America,United States,American
+SA,UYU,UY,URY,858,UY,598,Uruguay,Uruguay,Uruguay,Uruguayan
+AS,UZS,UZ,UZB,860,UZ,998,Uzbekistan,Uzbekistan,O‘zbekiston,Uzbekistani
+OC,VUV,VU,VUT,548,NH,678,Vanuatu,Vanuatu,Vanuatu,Ni-Vanuatu
+SA,VEF,VE,VEN,862,VE,58,Venezuela,Venezuela (Bolivarian Republic of),Venezuela,Venezuelan
+AS,VND,VN,VNM,704,VM,84,Vietnam,Viet Nam,Việt Nam,Vietnamese
+OC,XPF,WF,WLF,876,WF,681,Wallis and Futuna,Wallis and Futuna,Wallis et Futuna,Wallis and Futuna Islander
+AF,MAD,EH,ESH,732,WI,212,Western Sahara,Western Sahara,الصحراء الغربية,Sahrawi
+AS,YER,YE,YEM,887,YM,967,Yemen,Yemen,اليَمَن,Yemeni
+AF,ZMW,ZM,ZMB,894,ZA,260,Zambia,Zambia,Zambia,Zambian
+AF,BWP,ZW,ZWE,716,ZI,263,Zimbabwe,Zimbabwe,Zimbabwe,Zimbabwean

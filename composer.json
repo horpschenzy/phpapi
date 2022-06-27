@@ -1,0 +1,19 @@
+{
+    "name": "horpschenzy/agpaytech",
+    "description": "php api to import countries and currencies",
+    "autoload": {
+        "psr-4": {
+            "Horpschenzy\\Agpaytech\\": "/"
+        }
+    },
+    "authors": [
+        {
+            "name": "horpschenzy",
+            "email": "opeoluwa.lanre@gmail.com"
+        }
+    ],
+    "require-dev": {
+        "squizlabs/php_codesniffer": "^3.7",
+        "phpunit/phpunit": "^9.5"
+    }
+}
